@@ -1,9 +1,26 @@
 # ToDo App
 
+## Introduction
+
+This is a simple ToDo application
+It allows user to create, edit and delete tasks. Completed tasks can be checked as completed and can be sorted by completion. 
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Natalia015/ToDo.git
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+   
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
